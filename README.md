@@ -14,9 +14,9 @@ Utility class(es) that extend Unity's Gizmos
   * Capsules
 
 ## Install
-Just drop the `/src` folder into your Unity Assets
 
-if you want to keep up to date you might want to clone the repo into your `Assets/` folder instead
+Add the package via Unity's package manager: \
+`https://github.com/yanicksenn/GizmoExtensions.git`
 
 ## Contribute
 Do you have any Gizmo extensions? Feel free to contribute!

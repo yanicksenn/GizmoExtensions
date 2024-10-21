@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Utils {
+namespace GizmosExtensions {
 	public static class GizmosExtensions {
 	   
 		/// <summary>
