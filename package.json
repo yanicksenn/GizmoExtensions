@@ -1,0 +1,19 @@
+{
+    "name": "com.yanicksenn.gizmo_extensions_fork",
+    "version": "1.0.0",
+    "displayName": "Gizmo Extensions Fork",
+    "description": "Utility class(es) that extend Unity's Gizmos",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/yanicksenn/GizmoExtensions",
+    "licensesUrl": "https://github.com/yanicksenn/GizmoExtensions/blob/master/LICENSE",
+    "dependencies": {},
+    "keywords": [
+        "Gizmos",
+        "Editor"
+    ],
+    "author": {
+        "name": "Code-Beans",
+        "email": "marvin.neurath@code-beans.com",
+        "url": "https://github.com/code-beans/GizmoExtensions"
+    }
+}
